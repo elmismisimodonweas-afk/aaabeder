@@ -1,0 +1,17 @@
+[22:16:14] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
+[22:16:14] [INIT] Loaded plugins:
+[22:16:14] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[22:16:14] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[22:16:14] [INIT] - io.github.mortuusars.exposure.neoforge.integration.kubejs.ExposureKubeJSPlugin
+[22:16:14] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:16:14] [INIT] - com.oierbravo.mechanicals.compat.kubejs.MechanicalsJsPlugin
+[22:16:14] [INIT] - com.oierbravo.create_mechanical_extruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[22:16:14] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[22:16:14] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[22:16:14] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:16:14] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[22:16:14] [INFO] Loaded script startup_scripts:constants.js in 0.16 s
+[22:16:14] [INFO] Loaded script startup_scripts:fluids.js in 0.026 s
+[22:16:14] [INFO] Loaded script startup_scripts:main.js in 0.049 s
+[22:16:14] [INFO] Loaded 3/3 KubeJS startup scripts in 0.869 s with 0 errors and 0 warnings
+[22:16:15] [INFO] Validated 1317 files in kubejs/data/ in 50ms
